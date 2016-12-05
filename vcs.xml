@@ -10,6 +10,10 @@
           <option name="url" value="https://forge.git.cnrs.fr/eaiv2/reverseproxy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://forge.git.cnrs.fr/eaiv2/flow-reseda-structures.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sdr\Documents\CNRS\Workspaces\Intellij" />
