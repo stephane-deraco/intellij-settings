@@ -33,6 +33,9 @@
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings />
+      </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
