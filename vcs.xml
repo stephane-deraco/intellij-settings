@@ -75,6 +75,6 @@
     <option name="cloneParentDir" value="C:\Users\sdr\Documents\CNRS\Workspaces\Intellij" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\sdr\Documents\CNRS\Workspaces\Intellij\flow-reseda-persons" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Documents/CNRS/Workspaces/Intellij/flow-reseda-persons" />
   </component>
 </application>
