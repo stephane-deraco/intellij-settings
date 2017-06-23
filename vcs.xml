@@ -70,6 +70,10 @@
           <option name="url" value="https://forge.git.cnrs.fr/eaiv2/flow-reseda-nomenclatures.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://forge.git.cnrs.fr/dmas/dmas-revolution.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sdr\Documents\CNRS\Workspaces\Intellij" />
