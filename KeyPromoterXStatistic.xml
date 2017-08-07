@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <ShortCut>'Alt+N'</ShortCut>
+          <Description>Annotate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Back">
         <Item>
           <IdeaActionID>Back</IdeaActionID>
@@ -30,12 +38,11 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Directory</Description>
           <Count>1</Count>
@@ -43,7 +50,6 @@
       </Statistic>
       <Statistic Action="Edit">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Entrée'</ShortCut>
           <Description>Edit</Description>
           <Count>1</Count>
@@ -51,7 +57,6 @@
       </Statistic>
       <Statistic Action="Hide">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Maj+Echap'</ShortCut>
           <Description>Hide</Description>
           <Count>1</Count>
@@ -75,7 +80,6 @@
       </Statistic>
       <Statistic Action="In Project">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
           <Count>1</Count>
@@ -83,7 +87,6 @@
       </Statistic>
       <Statistic Action="Module">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+M'</ShortCut>
           <Description>Module</Description>
           <Count>1</Count>
@@ -107,7 +110,6 @@
       </Statistic>
       <Statistic Action="Rollback">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback</Description>
           <Count>1</Count>
@@ -115,7 +117,6 @@
       </Statistic>
       <Statistic Action="Scope">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+S'</ShortCut>
           <Description>Scope</Description>
           <Count>1</Count>
