@@ -30,7 +30,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Maj+F9'</ShortCut>
           <Description>Debug 'FlowResedaStructuresLightAppli...'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SesameApp'">
@@ -60,6 +60,14 @@
         <Item>
           <ShortCut>'Entrée'</ShortCut>
           <Description>Edit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Group by Directory">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+P'</ShortCut>
+          <Description>Group by Directory</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -108,6 +116,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reformat response">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Alt+L'</ShortCut>
+          <Description>Reformat response</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove Configuration">
         <Item>
           <IdeaActionID />
@@ -121,7 +137,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback">
@@ -129,6 +145,14 @@
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FlowResedaStructures...'">
@@ -144,7 +168,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'FlowResedaStructuresLightAppli...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scope">
@@ -175,7 +199,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FlowResedaStructuresLightApplication'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SesameApp'">
@@ -194,6 +218,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Submit Request">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Entrée'</ShortCut>
+          <Description>Submit Request</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="TODO">
         <Item>
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
@@ -207,7 +239,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>12</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -215,7 +247,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
