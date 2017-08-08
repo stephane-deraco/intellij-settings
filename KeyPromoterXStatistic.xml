@@ -38,7 +38,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Maj+F9'</ShortCut>
           <Description>Debug 'SesameApp'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>23</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -65,7 +65,6 @@
       </Statistic>
       <Statistic Action="Group by Directory">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+P'</ShortCut>
           <Description>Group by Directory</Description>
           <Count>1</Count>
@@ -118,7 +117,6 @@
       </Statistic>
       <Statistic Action="Reformat response">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>Reformat response</Description>
           <Count>1</Count>
@@ -126,7 +124,6 @@
       </Statistic>
       <Statistic Action="Remove Configuration">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Supprimer'</ShortCut>
           <Description>Remove Configuration</Description>
           <Count>1</Count>
@@ -157,7 +154,6 @@
       </Statistic>
       <Statistic Action="Run 'FlowResedaStructures...'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'FlowResedaStructures...'</Description>
           <Count>1</Count>
@@ -220,7 +216,6 @@
       </Statistic>
       <Statistic Action="Submit Request">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Entrée'</ShortCut>
           <Description>Submit Request</Description>
           <Count>3</Count>
@@ -247,7 +242,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
