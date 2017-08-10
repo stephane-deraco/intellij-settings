@@ -13,7 +13,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -61,7 +61,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>57</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -84,6 +84,22 @@
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Group By Modules">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+M'</ShortCut>
+          <Description>Group By Modules</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Group By Packages">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+P'</ShortCut>
+          <Description>Group By Packages</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Group by Directory">
@@ -345,7 +361,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
