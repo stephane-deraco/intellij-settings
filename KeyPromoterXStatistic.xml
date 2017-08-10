@@ -37,7 +37,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Maj+F9'</ShortCut>
           <Description>Debug 'BdfApplication'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FlowResedaStructuresLightAppli...'">
@@ -160,6 +160,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BdfApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'BdfApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'npm start'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -204,7 +212,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'BdfApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FlowResedaStructures...'">
@@ -266,7 +274,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BdfApplication'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FlowResedaStructuresLightApplication'">
