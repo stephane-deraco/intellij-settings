@@ -119,7 +119,7 @@
         <Item>
           <ShortCut>'Maj+Echap'</ShortCut>
           <Description>Hide</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
