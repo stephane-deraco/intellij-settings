@@ -252,6 +252,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Anomymize'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'Anomymize'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BdfApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
