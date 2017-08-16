@@ -34,7 +34,6 @@
       </Statistic>
       <Statistic Action="Close">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F4'</ShortCut>
           <Description>Close</Description>
           <Count>1</Count>
@@ -91,7 +90,7 @@
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Directory</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit">
@@ -201,7 +200,6 @@
       </Statistic>
       <Statistic Action="Recursively">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Y'</ShortCut>
           <Description>Recursively</Description>
           <Count>2</Count>
