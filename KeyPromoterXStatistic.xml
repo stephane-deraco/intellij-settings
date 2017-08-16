@@ -32,6 +32,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F4'</ShortCut>
+          <Description>Close</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Configuration">
         <Item>
           <ShortCut>'Ctrl+D'</ShortCut>
@@ -83,7 +91,7 @@
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Directory</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit">
@@ -145,18 +153,26 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Home Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
+          <ShortCut>'Ctrl+1'</ShortCut>
+          <Description>Home Directory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="In Project">
         <Item>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
         <Item>
           <ShortCut>'Alt+M'</ShortCut>
           <Description>Module</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -167,12 +183,28 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Project Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoProject</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Project Directory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Maj+K'</ShortCut>
           <Description>Push...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recursively">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+Y'</ShortCut>
+          <Description>Recursively</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Typing">
