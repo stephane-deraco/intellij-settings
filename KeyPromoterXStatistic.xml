@@ -106,7 +106,7 @@
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Directory</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit">
@@ -180,7 +180,7 @@
         <Item>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
