@@ -13,7 +13,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -36,7 +36,7 @@
         <Item>
           <ShortCut>'Ctrl+Maj+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Active Task...">
@@ -115,7 +115,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>101</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -137,7 +137,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Group By Modules">
@@ -196,7 +196,7 @@
         <Item>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module">
@@ -326,7 +326,7 @@
         <Item>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -514,7 +514,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
