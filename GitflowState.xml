@@ -4,6 +4,7 @@
       <map>
         <entry key="1279" value="feature/#40_Supprimer_le_message_d'accueil" />
         <entry key="1280" value="feature/41_Cacher_le_bouton_&quot;se_connecter&quot;" />
+        <entry key="1281" value="feature/42_Modifier_le_texte_du_choix_du_contexte" />
       </map>
     </option>
   </component>
