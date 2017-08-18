@@ -83,7 +83,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BdfApplication'">
@@ -115,7 +115,15 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Maj+F9'</ShortCut>
           <Description>Debug 'SesameApp'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'npm start'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Maj+F9'</ShortCut>
+          <Description>Debug 'npm start'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -137,6 +145,14 @@
         <Item>
           <ShortCut>'Entrée'</ShortCut>
           <Description>Edit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Source">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit Source</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -319,7 +335,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -428,7 +444,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -506,7 +522,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>59</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -522,7 +538,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>37</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
