@@ -44,7 +44,7 @@
           <IdeaActionID>tasks.close</IdeaActionID>
           <ShortCut>'Alt+Maj+W'</ShortCut>
           <Description>Close Active Task...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -343,6 +343,14 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reword...">
+        <Item>
+          <IdeaActionID>Git.Reword.Commit</IdeaActionID>
+          <ShortCut>'F2' or 'Maj+F6'</ShortCut>
+          <Description>Reword...</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
