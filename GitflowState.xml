@@ -10,6 +10,7 @@
         <entry key="1282" value="feature/43_La_recherche_sur_le_givenName_doit_être_une_recherche_de_type_like" />
         <entry key="1283" value="feature/44_La_recherche_doit_se_faire_avec_refUnauthenticable=FALSE" />
         <entry key="1285" value="feature/46_TESTS_DEV_-_CU3_-_Caractere_+_n'est_pas_interdit_dans_les_champs_de_saisie" />
+        <entry key="1286" value="feature/47_TESTS_DEV_-_CU3_-_Message_si_liste_vide_lorsque_recherche_par_nom" />
       </map>
     </option>
   </component>
