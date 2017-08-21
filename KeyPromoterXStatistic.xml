@@ -444,7 +444,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'SesameApp'</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'npm start'">
