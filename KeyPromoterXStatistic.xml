@@ -125,6 +125,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SesameUserDAOIntTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Maj+F9'</ShortCut>
+          <Description>Debug 'SesameUserDAOIntTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'npm start'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -138,7 +146,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -188,7 +196,7 @@
         <Item>
           <ShortCut>'Ctrl+P'</ShortCut>
           <Description>Group by Directory</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -469,6 +477,30 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SesameUserDAOIntTest'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'SesameUserDAOIntTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SesameUserDAOTest'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'SesameUserDAOTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'getUsersByMail()'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'getUsersByMail()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'npm start'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -482,7 +514,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'sesame [test]'</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scope">
@@ -547,6 +579,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SesameUserDAOIntTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SesameUserDAOIntTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'npm start'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -583,7 +623,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>93</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Deleting parameter paginationU...">
@@ -607,7 +647,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
