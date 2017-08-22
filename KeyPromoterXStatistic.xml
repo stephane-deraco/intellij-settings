@@ -28,7 +28,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>27</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -133,6 +133,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'getUsersByMail()'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Debug 'getUsersByMail()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'npm start'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -146,7 +154,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>123</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -350,6 +358,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'BdfApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SesameUserDAOUnitTest.getUsersByMail'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SesameUserDAOUnitTest.getUsersByMail'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'npm start'">
@@ -587,6 +603,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SesameUserDAOUnitTest.getUsersByMail'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SesameUserDAOUnitTest.getUsersByMail'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'npm start'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -623,7 +647,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>94</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Deleting parameter paginationU...">
