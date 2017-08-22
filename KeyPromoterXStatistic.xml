@@ -18,7 +18,6 @@
       </Statistic>
       <Statistic Action="Apply a quickfix">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Entrée'</ShortCut>
           <Description>Apply a quickfix</Description>
           <Count>1</Count>
@@ -37,7 +36,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -339,7 +338,6 @@
       </Statistic>
       <Statistic Action="Rerun Inspection">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun Inspection</Description>
           <Count>4</Count>
@@ -444,7 +442,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'SesameApp'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'npm start'">
