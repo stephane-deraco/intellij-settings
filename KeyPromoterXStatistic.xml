@@ -51,7 +51,7 @@
           <IdeaActionID>tasks.close</IdeaActionID>
           <ShortCut>'Alt+Maj+W'</ShortCut>
           <Description>Close Active Task...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -264,7 +264,7 @@
           <IdeaActionID>tasks.goto</IdeaActionID>
           <ShortCut>'Alt+Maj+N'</ShortCut>
           <Description>Open Task...</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -530,6 +530,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SesameUserResourceIntTest'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'SesameUserResourceIntTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'getUsersByMail()'">
         <Item>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
@@ -550,7 +558,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'sesame [test]'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scope">
@@ -699,7 +707,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
