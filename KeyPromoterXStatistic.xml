@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Group By Modules">
@@ -484,6 +484,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LdapUtilTest'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'LdapUtilTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SesameApp'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -504,6 +512,14 @@
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'SesameUserDAOTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SesameUserDAOUnitTest'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'SesameUserDAOUnitTest'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SesameUserDAOUnitTest.getUsers...'">
@@ -534,7 +550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'sesame [test]'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scope">
@@ -621,6 +637,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'npm start'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'sesame [test]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'sesame [test]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
