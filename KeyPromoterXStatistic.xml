@@ -13,7 +13,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply a quickfix">
@@ -135,7 +135,6 @@
       </Statistic>
       <Statistic Action="Debug 'getUsersByMail()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Debug 'getUsersByMail()'</Description>
           <Count>1</Count>
@@ -396,7 +395,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -495,7 +494,6 @@
       </Statistic>
       <Statistic Action="Run 'SesameUserDAOIntTest'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'SesameUserDAOIntTest'</Description>
           <Count>1</Count>
@@ -503,18 +501,24 @@
       </Statistic>
       <Statistic Action="Run 'SesameUserDAOTest'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'SesameUserDAOTest'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SesameUserDAOUnitTest.getUsers...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'SesameUserDAOUnitTest.getUsers...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'getUsersByMail()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'getUsersByMail()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'npm start'">
