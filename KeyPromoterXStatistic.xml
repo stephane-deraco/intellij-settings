@@ -28,7 +28,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -133,6 +133,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SesameUserResourceIntTest.sear...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Maj+F9'</ShortCut>
+          <Description>Debug 'SesameUserResourceIntTest.sear...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'getUsersByMail()'">
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
@@ -148,12 +156,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'searchByJanusId()'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Debug 'searchByJanusId()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>129</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -538,6 +554,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SesameUserResourceIntTest.sear...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'SesameUserResourceIntTest.sear...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'getUser()'">
         <Item>
           <IdeaActionID />
@@ -559,6 +583,14 @@
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'npm start'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'searchByJanusId()'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'searchByJanusId()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sesame [test]'">
@@ -647,6 +679,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SesameUserResourceIntTest.searchByJanusId'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SesameUserResourceIntTest.searchByJanusId'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'npm start'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -691,7 +731,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>98</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Deleting parameter paginationU...">
