@@ -54,6 +54,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close Tab">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F4'</ShortCut>
+          <Description>Close Tab</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit Message History">
         <Item>
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
@@ -773,7 +781,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>55</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
