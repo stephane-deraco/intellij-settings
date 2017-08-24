@@ -390,6 +390,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SesameUserResourceIntTest.searchByJanusId'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SesameUserResourceIntTest.searchByJanusId'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'npm start'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -592,7 +600,7 @@
         <Item>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'searchByJanusId()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sesame [test]'">
