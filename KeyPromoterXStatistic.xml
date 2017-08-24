@@ -158,7 +158,6 @@
       </Statistic>
       <Statistic Action="Debug 'searchByJanusId()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Debug 'searchByJanusId()'</Description>
           <Count>1</Count>
@@ -510,7 +509,6 @@
       </Statistic>
       <Statistic Action="Run 'LdapUtilTest'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'LdapUtilTest'</Description>
           <Count>1</Count>
@@ -540,7 +538,6 @@
       </Statistic>
       <Statistic Action="Run 'SesameUserDAOUnitTest'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'SesameUserDAOUnitTest'</Description>
           <Count>10</Count>
@@ -556,7 +553,6 @@
       </Statistic>
       <Statistic Action="Run 'SesameUserResourceIntTest'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'SesameUserResourceIntTest'</Description>
           <Count>1</Count>
@@ -572,7 +568,6 @@
       </Statistic>
       <Statistic Action="Run 'getUser()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'getUser()'</Description>
           <Count>1</Count>
@@ -595,7 +590,6 @@
       </Statistic>
       <Statistic Action="Run 'searchByJanusId()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'searchByJanusId()'</Description>
           <Count>1</Count>
@@ -606,7 +600,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'sesame [test]'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scope">
