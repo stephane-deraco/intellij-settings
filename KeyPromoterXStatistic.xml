@@ -12,7 +12,7 @@
         <Item>
           <ShortCut>'Alt+Insérer'</ShortCut>
           <Description>Add New Configuration</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Annotate">
@@ -551,6 +551,14 @@
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'FlowResedaStructuresLightAppli...'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Frontend tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'Frontend tests'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Java Tests'">
