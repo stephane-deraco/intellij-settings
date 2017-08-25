@@ -8,6 +8,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add New Configuration">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+Insérer'</ShortCut>
+          <Description>Add New Configuration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Annotate">
         <Item>
           <IdeaActionID>Annotate</IdeaActionID>
@@ -56,7 +64,6 @@
       </Statistic>
       <Statistic Action="Close Tab">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F4'</ShortCut>
           <Description>Close Tab</Description>
           <Count>1</Count>
@@ -295,7 +302,7 @@
           <IdeaActionID>tasks.goto</IdeaActionID>
           <ShortCut>'Alt+Maj+N'</ShortCut>
           <Description>Open Task...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -390,6 +397,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'All tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'All tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'BdfApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -482,6 +497,14 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'All tests'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anomymize'">
@@ -629,7 +652,6 @@
       </Statistic>
       <Statistic Action="Run 'searchByJanusIdWit...()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'searchByJanusIdWit...()'</Description>
           <Count>1</Count>
@@ -671,6 +693,14 @@
           <ShortCut>'Maj+F8'</ShortCut>
           <Description>Step Out</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'All tests'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BdfApplication'">
@@ -797,7 +827,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
