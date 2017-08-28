@@ -189,7 +189,7 @@
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Directory</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit">
@@ -270,7 +270,7 @@
         <Item>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -285,7 +285,7 @@
         <Item>
           <ShortCut>'Alt+M'</ShortCut>
           <Description>Module</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -574,7 +574,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'FullyRandomAnonymizerApplicati...'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Java Tests'">
@@ -706,7 +706,7 @@
         <Item>
           <ShortCut>'Alt+S'</ShortCut>
           <Description>Scope</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
