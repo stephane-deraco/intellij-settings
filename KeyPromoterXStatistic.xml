@@ -270,7 +270,7 @@
         <Item>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -285,7 +285,7 @@
         <Item>
           <ShortCut>'Alt+M'</ShortCut>
           <Description>Module</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -581,7 +581,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'SesameApp'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SesameUserDAOIntTest'">
@@ -652,7 +652,6 @@
       </Statistic>
       <Statistic Action="Run 'searchByEntity()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'searchByEntity()'</Description>
           <Count>1</Count>
@@ -660,7 +659,6 @@
       </Statistic>
       <Statistic Action="Run 'searchByEntityWith...()'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'searchByEntityWith...()'</Description>
           <Count>2</Count>
