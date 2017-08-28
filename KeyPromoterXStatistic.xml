@@ -12,7 +12,7 @@
         <Item>
           <ShortCut>'Alt+Insérer'</ShortCut>
           <Description>Add New Configuration</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Annotate">
@@ -561,12 +561,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FullyRandomAnonymize...'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'FullyRandomAnonymize...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FullyRandomAnonymizerApplicati...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'FullyRandomAnonymizerApplicati...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Java Tests'">
