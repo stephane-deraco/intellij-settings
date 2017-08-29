@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>142</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -563,7 +563,6 @@
       </Statistic>
       <Statistic Action="Run 'FullyRandomAnonymize...'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'FullyRandomAnonymize...'</Description>
           <Count>1</Count>
