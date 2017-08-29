@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>146</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -573,7 +573,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'FullyRandomAnonymizerApplicati...'</Description>
-          <Count>7</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Java Tests'">
@@ -753,6 +753,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FlowResedaStructuresLightApplication'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FullyRandomAnonymizerApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FullyRandomAnonymizerApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Javascript Debug'">
