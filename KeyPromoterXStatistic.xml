@@ -58,7 +58,7 @@
           <IdeaActionID>tasks.close</IdeaActionID>
           <ShortCut>'Alt+Maj+W'</ShortCut>
           <Description>Close Active Task...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Tab">
@@ -309,7 +309,7 @@
           <IdeaActionID>tasks.goto</IdeaActionID>
           <ShortCut>'Alt+Maj+N'</ShortCut>
           <Description>Open Task...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -480,7 +480,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -879,7 +879,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>72</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
