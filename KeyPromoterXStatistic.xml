@@ -278,7 +278,7 @@
         <Item>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
