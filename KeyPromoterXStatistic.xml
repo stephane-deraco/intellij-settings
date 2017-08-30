@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>149</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -713,7 +713,7 @@
         <Item>
           <ShortCut>'Alt+S'</ShortCut>
           <Description>Scope</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
