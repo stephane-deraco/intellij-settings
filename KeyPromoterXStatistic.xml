@@ -12,7 +12,7 @@
         <Item>
           <ShortCut>'Alt+Insérer'</ShortCut>
           <Description>Add New Configuration</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Annotate">
@@ -88,7 +88,7 @@
         <Item>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Copy Configuration</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -104,7 +104,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BdfApplication'">
@@ -145,6 +145,14 @@
           <ShortCut>'Maj+F9'</ShortCut>
           <Description>Debug 'Javascript Debug'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Karma Debug'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Maj+F9'</ShortCut>
+          <Description>Debug 'Karma Debug'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SesameApp'">
@@ -279,7 +287,7 @@
           <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
           <ShortCut>'Ctrl+1'</ShortCut>
           <Description>Home Directory</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -393,7 +401,7 @@
         <Item>
           <ShortCut>'Alt+Supprimer'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -511,7 +519,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All tests'">
@@ -600,6 +608,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Karma Debug'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'Karma Debug'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Karma Server'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'Karma Server'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'LdapUtilTest'">
         <Item>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
@@ -681,6 +705,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'protractor.conf.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'protractor.conf.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'searchByEntity()'">
         <Item>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
@@ -729,7 +761,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -848,7 +880,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit Request">
@@ -871,7 +903,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Deleting parameter paginationU...">
@@ -879,6 +911,14 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'Ctrl+Z' or 'Alt+Retour arrière'</ShortCut>
           <Description>Undo Deleting parameter paginationU...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Up">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+Haut'</ShortCut>
+          <Description>Up</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
