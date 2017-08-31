@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>154</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -551,7 +551,7 @@
         <Item>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -607,7 +607,7 @@
           <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'Component Tests'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ContextService'">
@@ -615,7 +615,7 @@
           <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'ContextService'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Extract'">
