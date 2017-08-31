@@ -5,14 +5,14 @@
         <Item>
           <ShortCut>'Alt+Insérer'</ShortCut>
           <Description>Add</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add New Configuration">
         <Item>
           <ShortCut>'Alt+Insérer'</ShortCut>
           <Description>Add New Configuration</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Annotate">
@@ -115,6 +115,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ContextService'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Maj+F9'</ShortCut>
+          <Description>Debug 'ContextService'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FlowResedaStructuresLightAppli...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -179,6 +187,14 @@
           <Count>26</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unnamed'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Maj+F9'</ShortCut>
+          <Description>Debug 'Unnamed'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'getUsersByMail()'">
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
@@ -198,6 +214,14 @@
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Debug 'searchByJanusId()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'should work'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Debug 'should work'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -401,7 +425,7 @@
         <Item>
           <ShortCut>'Alt+Supprimer'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>2</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -434,6 +458,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'BdfApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ContextService'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ContextService'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
@@ -522,6 +554,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All frontend tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'All frontend tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'All tests'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -552,6 +592,14 @@
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'Build and upload to Nexus (pro...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ContextService'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'ContextService'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Extract'">
@@ -683,6 +731,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unnamed'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'Unnamed'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'getUser()'">
         <Item>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
@@ -695,6 +751,14 @@
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'getUsersByMail()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'karma.conf.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'karma.conf.js'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'npm start'">
@@ -793,6 +857,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'BdfApplication'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ContextService'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ContextService'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FlowResedaStructuresLightApplication'">
@@ -903,7 +975,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Deleting parameter paginationU...">
@@ -916,7 +988,6 @@
       </Statistic>
       <Statistic Action="Up">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Haut'</ShortCut>
           <Description>Up</Description>
           <Count>1</Count>
@@ -935,7 +1006,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
