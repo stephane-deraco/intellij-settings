@@ -227,7 +227,6 @@
       </Statistic>
       <Statistic Action="Debug 'should work'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Debug 'should work'</Description>
           <Count>1</Count>
@@ -604,7 +603,6 @@
       </Statistic>
       <Statistic Action="Run 'Component Tests'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'Component Tests'</Description>
           <Count>5</Count>
@@ -612,7 +610,6 @@
       </Statistic>
       <Statistic Action="Run 'ContextService'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'ContextService'</Description>
           <Count>18</Count>
@@ -1022,7 +1019,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
