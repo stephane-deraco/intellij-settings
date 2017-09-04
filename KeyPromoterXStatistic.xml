@@ -244,7 +244,7 @@
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Directory</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit">
@@ -325,7 +325,7 @@
         <Item>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -340,7 +340,7 @@
         <Item>
           <ShortCut>'Alt+M'</ShortCut>
           <Description>Module</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -830,7 +830,7 @@
         <Item>
           <ShortCut>'Alt+S'</ShortCut>
           <Description>Scope</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
