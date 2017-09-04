@@ -359,6 +359,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Next Difference">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'F7'</ShortCut>
+          <Description>Next Difference</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Task...">
         <Item>
           <IdeaActionID>tasks.goto</IdeaActionID>
@@ -566,7 +574,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All frontend tests'">
@@ -1043,7 +1051,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
