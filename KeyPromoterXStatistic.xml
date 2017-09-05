@@ -377,7 +377,6 @@
       </Statistic>
       <Statistic Action="Next Difference">
         <Item>
-          <IdeaActionID />
           <ShortCut>'F7'</ShortCut>
           <Description>Next Difference</Description>
           <Count>23</Count>
@@ -711,7 +710,6 @@
       </Statistic>
       <Statistic Action="Run 'JhiHealthCheckComponent'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'JhiHealthCheckComponent'</Description>
           <Count>2</Count>
@@ -1091,7 +1089,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>88</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
