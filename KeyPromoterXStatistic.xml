@@ -406,6 +406,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste Simple">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Maj+V'</ShortCut>
+          <Description>Paste Simple</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
