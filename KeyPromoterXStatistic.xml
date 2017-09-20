@@ -1101,6 +1101,14 @@
           <Count>136</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+B' or 'Ctrl+Maj+Button1 Click'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Undo Deleting parameter paginationU...">
         <Item>
           <IdeaActionID>$Undo</IdeaActionID>
