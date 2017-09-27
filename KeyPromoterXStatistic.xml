@@ -1125,6 +1125,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Undo Reformat Code">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Retour arrière'</ShortCut>
+          <Description>Undo Reformat Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Up">
         <Item>
           <ShortCut>'Alt+Haut'</ShortCut>
