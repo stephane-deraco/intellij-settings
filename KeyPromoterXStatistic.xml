@@ -35,7 +35,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -737,7 +737,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'FullyRandomAnonymizerApplicati...'</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Java Tests'">
