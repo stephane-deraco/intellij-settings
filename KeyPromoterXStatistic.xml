@@ -152,7 +152,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Maj+F9'</ShortCut>
           <Description>Debug 'FullyRandomAnonymizerApplicati...'</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Javascript Debug'">
@@ -334,7 +334,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Maj+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -503,7 +503,7 @@
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
           <ShortCut>'Supprimer'</ShortCut>
           <Description>Remove Watch</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -737,7 +737,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'FullyRandomAnonymizerApplicati...'</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Java Tests'">
@@ -995,7 +995,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FullyRandomAnonymizerApplication'</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Javascript Debug'">
