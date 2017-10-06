@@ -610,6 +610,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'sesame-ng:sesame-backend [test]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'sesame-ng:sesame-backend [test]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun Inspection">
         <Item>
           <ShortCut>'Ctrl+F5'</ShortCut>
@@ -1138,7 +1146,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
