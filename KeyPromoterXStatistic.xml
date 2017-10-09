@@ -511,7 +511,7 @@
         <Item>
           <ShortCut>'Alt+Supprimer'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -818,6 +818,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SesameBackendApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'SesameBackendApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SesameUserDAOIntTest'">
         <Item>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
@@ -958,6 +966,14 @@
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'sesame [test]'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'sesame-ng:sesame-backend [boot...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'sesame-ng:sesame-backend [boot...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scope">
@@ -1118,6 +1134,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'sesame-ng:sesame-backend [bootRun]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'sesame-ng:sesame-backend [bootRun]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1154,7 +1178,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>182</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Trace Current Stream Chain">
