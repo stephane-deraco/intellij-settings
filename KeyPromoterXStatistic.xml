@@ -277,7 +277,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>221</Count>
+          <Count>222</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -382,6 +382,14 @@
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump To Source">
+        <Item>
+          <IdeaActionID>XDebugger.JumpToSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump To Source</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -1186,7 +1194,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>214</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Trace Current Stream Chain">
@@ -1249,7 +1257,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>113</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
