@@ -1285,6 +1285,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Type Migration...">
+        <Item>
+          <IdeaActionID>ChangeTypeSignature</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+F6'</ShortCut>
+          <Description>Type Migration...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Undo Deleting parameter paginationU...">
         <Item>
           <IdeaActionID>$Undo</IdeaActionID>
