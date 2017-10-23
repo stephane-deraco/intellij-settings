@@ -602,6 +602,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'flow-reseda-structures'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'flow-reseda-structures'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'fully-random-anonymizer [asciidoctor]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -915,7 +923,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'flow-reseda-structures'</Description>
-          <Count>9</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'fully-random-anonymizer [depen...'">
@@ -1163,7 +1171,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'flow-reseda-structures'</Description>
-          <Count>6</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'npm start'">
@@ -1297,7 +1305,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>136</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
