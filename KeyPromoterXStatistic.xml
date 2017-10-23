@@ -742,6 +742,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DiffLoggerTest.logDiff'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'DiffLoggerTest.logDiff'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Extract'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -801,6 +809,14 @@
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'JhiHealthCheckComponent'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JsonServiceTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'JsonServiceTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Karma Debug'">
