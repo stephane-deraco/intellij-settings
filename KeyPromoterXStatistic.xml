@@ -160,7 +160,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Maj+F9'</ShortCut>
           <Description>Debug 'FlowResedaPersonsApplication'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FlowResedaStructuresLightAppli...'">
@@ -382,7 +382,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Maj+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -475,7 +475,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -686,7 +686,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Maj+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1087,6 +1087,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Set Value...">
+        <Item>
+          <IdeaActionID>XDebugger.SetValue</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Set Value...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
@@ -1155,7 +1163,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FlowResedaPersonsApplication'</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FlowResedaStructuresLightApplication'">
@@ -1314,7 +1322,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>230</Count>
+          <Count>231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Trace Current Stream Chain">
@@ -1385,7 +1393,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
