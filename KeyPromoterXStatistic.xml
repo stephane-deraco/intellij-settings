@@ -382,7 +382,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Maj+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -483,7 +483,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -718,7 +718,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -1270,6 +1270,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'modeling-reactor [install]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'modeling-reactor [install]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'npm start'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1409,7 +1417,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>152</Count>
+          <Count>158</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
