@@ -806,6 +806,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'EaiRefProxyTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'EaiRefProxyTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ExecutionStatusHelperTest.getE...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
