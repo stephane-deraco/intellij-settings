@@ -317,7 +317,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>247</Count>
+          <Count>250</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
