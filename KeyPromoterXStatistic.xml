@@ -333,7 +333,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>266</Count>
+          <Count>268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -1036,6 +1036,14 @@
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'SesameUserResourceIntTest.sear...'</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TokenServiceTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'TokenServiceTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
