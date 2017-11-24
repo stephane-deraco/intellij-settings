@@ -179,6 +179,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FlowResedaNomenclaturesRestApp...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Maj+F9'</ShortCut>
+          <Description>Debug 'FlowResedaNomenclaturesRestApp...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FlowResedaPersonsApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -870,6 +878,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FlowResedaNomenclaturesRestApp...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'FlowResedaNomenclaturesRestApp...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FlowResedaPersonsApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1238,6 +1254,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FlowResedaNomenclaturesRestApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FlowResedaNomenclaturesRestApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FlowResedaPersonsApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1410,7 +1434,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>285</Count>
+          <Count>286</Count>
         </Item>
       </Statistic>
       <Statistic Action="Trace Current Stream Chain">
